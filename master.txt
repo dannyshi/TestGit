@@ -2,6 +2,10 @@ master init commit 1
 master update commit 2
 master update commit 3
 
+feature/branch1 update commit 1
+feature/branch1 update commit 2
+feature/branch1 update commit 3
+feature/branch1 update commit 4
 
 master update commit 4
 
