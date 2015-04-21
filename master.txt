@@ -7,3 +7,4 @@ master update commit 4
 
 feature/branch1 update commit 1
 
+feature/branch2 update commit 1
